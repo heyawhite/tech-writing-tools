@@ -12,7 +12,7 @@
 + [Typora](https://www.typora.io/) for Markdown
 
 ## Web applications
-+ [Draft](https://draftin.com/draft/users/sign_up) for Markdown
++ [Draft](https://draftin.com/) for Markdown
 + [iA Writer](https://ia.net/writer) for Markdown
 
 
