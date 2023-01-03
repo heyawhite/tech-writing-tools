@@ -19,8 +19,6 @@ Windows and MacOS users.
 
 ### Free
 + [Giphy](https://giphy.com/create/gifmaker)
-
-### Paid
 + [GIF Brewery](https://gfycat.com/gifbrewery)
 + [ShareX](https://getsharex.com/)
 
